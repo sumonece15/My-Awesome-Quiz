@@ -16,7 +16,7 @@
         android:text="Let's play a quick quiz"
         android:textColor="@color/black"
         android:textStyle="bold"
-        android:textSize="24sp" />
+        android:textSize="25sp" />
 
     <TextView
         android:id="@+id/text_view_highscore"
